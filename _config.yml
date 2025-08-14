@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "T_space/workspace"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yixin Tan"
 description              : &description "personal description"
 url                      : https://oscarcermy.github.io/t_space.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "https://oscarcermy.github.io/t_space.github.io/"
 author:
   # Biographic information
   avatar           : "./my.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Yixin Tan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "BNU"
   uri              : # URL
   email            : "none@example.org" 
 
