@@ -21,9 +21,9 @@ My email: 202111079090@mail.bnu.edu.cn
 
 Our Team
 ======
-A4Research : [A4Research](https://www.a4research.top)
+A4Research : [A4Research](https://www.a4research.com)
 
 For more info
 ------
-To focus on our team website A4Research : [A4Research](https://www.a4research.top)
+To focus on our team website A4Research : [A4Research](https://www.a4research.com)
 
